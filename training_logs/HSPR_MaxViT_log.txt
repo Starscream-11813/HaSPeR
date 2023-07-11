@@ -1,0 +1,251 @@
+Epoch 0/49
+----------
+train Loss: 0.9390 top-k Acc 0.8864 Acc: 0.7715
+val Loss: 1.0728 top-k Acc 0.8641 Acc: 0.6642
+Time elapsed: (2.0, 42.3092520236969)
+Epoch 1/49
+----------
+train Loss: 0.1137 top-k Acc 0.9948 Acc: 0.9713
+val Loss: 0.8964 top-k Acc 0.9106 Acc: 0.7482
+Time elapsed: (5.0, 26.149812936782837)
+Epoch 2/49
+----------
+train Loss: 0.0657 top-k Acc 0.9974 Acc: 0.9822
+val Loss: 1.0671 top-k Acc 0.8603 Acc: 0.7319
+Time elapsed: (8.0, 8.332436323165894)
+Epoch 3/49
+----------
+train Loss: 0.0452 top-k Acc 0.9976 Acc: 0.9876
+val Loss: 0.8591 top-k Acc 0.9050 Acc: 0.7857
+Time elapsed: (10.0, 57.98163414001465)
+Epoch 4/49
+----------
+train Loss: 0.0361 top-k Acc 0.9987 Acc: 0.9898
+val Loss: 0.8574 top-k Acc 0.9358 Acc: 0.7758
+Time elapsed: (13.0, 50.46493315696716)
+Epoch 5/49
+----------
+train Loss: 0.0236 top-k Acc 0.9991 Acc: 0.9937
+val Loss: 0.6522 top-k Acc 0.9417 Acc: 0.8427
+Time elapsed: (16.0, 41.657092571258545)
+Epoch 6/49
+----------
+train Loss: 0.0236 top-k Acc 0.9991 Acc: 0.9939
+val Loss: 0.6974 top-k Acc 0.9320 Acc: 0.8188
+Time elapsed: (19.0, 30.453017473220825)
+Epoch 7/49
+----------
+train Loss: 0.0216 top-k Acc 0.9993 Acc: 0.9957
+val Loss: 0.7758 top-k Acc 0.9497 Acc: 0.7966
+Time elapsed: (22.0, 19.779641151428223)
+Epoch 8/49
+----------
+train Loss: 0.0182 top-k Acc 0.9998 Acc: 0.9961
+val Loss: 0.6867 top-k Acc 0.9291 Acc: 0.8146
+Time elapsed: (25.0, 8.738112926483154)
+Epoch 9/49
+----------
+train Loss: 0.0205 top-k Acc 0.9996 Acc: 0.9950
+val Loss: 3.1710 top-k Acc 0.4298 Acc: 0.3155
+Time elapsed: (27.0, 57.827152490615845)
+Epoch 10/49
+----------
+train Loss: 0.0180 top-k Acc 0.9998 Acc: 0.9961
+val Loss: 0.7869 top-k Acc 0.9050 Acc: 0.8081
+Time elapsed: (30.0, 46.85701036453247)
+Epoch 11/49
+----------
+train Loss: 0.0158 top-k Acc 1.0000 Acc: 0.9954
+val Loss: 0.7116 top-k Acc 0.9459 Acc: 0.8261
+Time elapsed: (33.0, 22.88339900970459)
+Epoch 12/49
+----------
+train Loss: 0.0213 top-k Acc 1.0000 Acc: 0.9935
+val Loss: 0.6752 top-k Acc 0.9387 Acc: 0.8320
+Time elapsed: (35.0, 29.138457536697388)
+Epoch 13/49
+----------
+train Loss: 0.0201 top-k Acc 0.9996 Acc: 0.9954
+val Loss: 0.6744 top-k Acc 0.9347 Acc: 0.8301
+Time elapsed: (37.0, 33.06309938430786)
+Epoch 14/49
+----------
+train Loss: 0.0186 top-k Acc 0.9998 Acc: 0.9954
+val Loss: 0.4940 top-k Acc 0.9625 Acc: 0.8579
+Time elapsed: (39.0, 32.210997581481934)
+Epoch 15/49
+----------
+train Loss: 0.0217 top-k Acc 0.9998 Acc: 0.9946
+val Loss: 0.6953 top-k Acc 0.9269 Acc: 0.8231
+Time elapsed: (41.0, 32.15480589866638)
+Epoch 16/49
+----------
+train Loss: 0.0210 top-k Acc 0.9996 Acc: 0.9937
+val Loss: 0.8224 top-k Acc 0.9077 Acc: 0.8132
+Time elapsed: (43.0, 32.534271478652954)
+Epoch 17/49
+----------
+train Loss: 0.0159 top-k Acc 0.9998 Acc: 0.9959
+val Loss: 0.7234 top-k Acc 0.9264 Acc: 0.8231
+Time elapsed: (45.0, 34.58794927597046)
+Epoch 18/49
+----------
+train Loss: 0.0183 top-k Acc 0.9998 Acc: 0.9965
+val Loss: 0.8453 top-k Acc 0.9264 Acc: 0.8076
+Time elapsed: (47.0, 36.306711196899414)
+Epoch 19/49
+----------
+train Loss: 0.0156 top-k Acc 0.9998 Acc: 0.9963
+val Loss: 0.6056 top-k Acc 0.9524 Acc: 0.8405
+Time elapsed: (49.0, 37.2665159702301)
+Epoch 20/49
+----------
+train Loss: 0.0197 top-k Acc 0.9998 Acc: 0.9952
+val Loss: 0.6740 top-k Acc 0.9387 Acc: 0.8287
+Time elapsed: (51.0, 37.62954378128052)
+Epoch 21/49
+----------
+train Loss: 0.0176 top-k Acc 0.9998 Acc: 0.9965
+val Loss: 0.7359 top-k Acc 0.9269 Acc: 0.8116
+Time elapsed: (53.0, 37.607916831970215)
+Epoch 22/49
+----------
+train Loss: 0.0181 top-k Acc 0.9998 Acc: 0.9957
+val Loss: 0.9411 top-k Acc 0.9096 Acc: 0.7683
+Time elapsed: (55.0, 37.698195695877075)
+Epoch 23/49
+----------
+train Loss: 0.0194 top-k Acc 0.9996 Acc: 0.9952
+val Loss: 0.6295 top-k Acc 0.9344 Acc: 0.8386
+Time elapsed: (57.0, 37.940080642700195)
+Epoch 24/49
+----------
+train Loss: 0.0208 top-k Acc 1.0000 Acc: 0.9937
+val Loss: 0.5380 top-k Acc 0.9524 Acc: 0.8555
+Time elapsed: (59.0, 38.622946977615356)
+Epoch 25/49
+----------
+train Loss: 0.0193 top-k Acc 0.9998 Acc: 0.9946
+val Loss: 0.6949 top-k Acc 0.9331 Acc: 0.8207
+Time elapsed: (61.0, 38.94951128959656)
+Epoch 26/49
+----------
+train Loss: 0.0181 top-k Acc 0.9998 Acc: 0.9957
+val Loss: 0.6888 top-k Acc 0.9425 Acc: 0.8199
+Time elapsed: (63.0, 39.01119089126587)
+Epoch 27/49
+----------
+train Loss: 0.0185 top-k Acc 0.9998 Acc: 0.9952
+val Loss: 0.9466 top-k Acc 0.8940 Acc: 0.7586
+Time elapsed: (65.0, 39.31859993934631)
+Epoch 28/49
+----------
+train Loss: 0.0182 top-k Acc 0.9993 Acc: 0.9950
+val Loss: 0.9005 top-k Acc 0.8857 Acc: 0.8060
+Time elapsed: (67.0, 39.425666093826294)
+Epoch 29/49
+----------
+train Loss: 0.0189 top-k Acc 0.9993 Acc: 0.9965
+val Loss: 0.7890 top-k Acc 0.9312 Acc: 0.8009
+Time elapsed: (69.0, 39.684717655181885)
+Epoch 30/49
+----------
+train Loss: 0.0194 top-k Acc 0.9998 Acc: 0.9950
+val Loss: 0.7197 top-k Acc 0.9248 Acc: 0.8143
+Time elapsed: (71.0, 39.82513928413391)
+Epoch 31/49
+----------
+train Loss: 0.0190 top-k Acc 0.9993 Acc: 0.9957
+val Loss: 0.7362 top-k Acc 0.9323 Acc: 0.8041
+Time elapsed: (73.0, 39.90083193778992)
+Epoch 32/49
+----------
+train Loss: 0.0175 top-k Acc 0.9998 Acc: 0.9946
+val Loss: 0.6775 top-k Acc 0.9382 Acc: 0.8202
+Time elapsed: (75.0, 39.937756061553955)
+Epoch 33/49
+----------
+train Loss: 0.0192 top-k Acc 0.9998 Acc: 0.9944
+val Loss: 0.5978 top-k Acc 0.9467 Acc: 0.8453
+Time elapsed: (77.0, 39.94716286659241)
+Epoch 34/49
+----------
+train Loss: 0.0209 top-k Acc 0.9998 Acc: 0.9941
+val Loss: 0.6795 top-k Acc 0.9296 Acc: 0.8301
+Time elapsed: (79.0, 39.87075638771057)
+Epoch 35/49
+----------
+train Loss: 0.0207 top-k Acc 0.9998 Acc: 0.9941
+val Loss: 0.6941 top-k Acc 0.9310 Acc: 0.8354
+Time elapsed: (81.0, 40.147549867630005)
+Epoch 36/49
+----------
+train Loss: 0.0210 top-k Acc 0.9993 Acc: 0.9952
+val Loss: 0.7121 top-k Acc 0.9318 Acc: 0.8408
+Time elapsed: (83.0, 40.06871795654297)
+Epoch 37/49
+----------
+train Loss: 0.0171 top-k Acc 0.9996 Acc: 0.9961
+val Loss: 0.7134 top-k Acc 0.9422 Acc: 0.8113
+Time elapsed: (85.0, 40.270975828170776)
+Epoch 38/49
+----------
+train Loss: 0.0194 top-k Acc 0.9993 Acc: 0.9946
+val Loss: 0.6921 top-k Acc 0.9398 Acc: 0.8368
+Time elapsed: (87.0, 40.29560565948486)
+Epoch 39/49
+----------
+train Loss: 0.0220 top-k Acc 0.9991 Acc: 0.9946
+val Loss: 0.7289 top-k Acc 0.9178 Acc: 0.8386
+Time elapsed: (89.0, 40.28205728530884)
+Epoch 40/49
+----------
+train Loss: 0.0204 top-k Acc 0.9996 Acc: 0.9944
+val Loss: 0.7857 top-k Acc 0.9419 Acc: 0.7891
+Time elapsed: (91.0, 40.26301193237305)
+Epoch 41/49
+----------
+train Loss: 0.0149 top-k Acc 0.9998 Acc: 0.9963
+val Loss: 0.7467 top-k Acc 0.9377 Acc: 0.8186
+Time elapsed: (93.0, 40.28303360939026)
+Epoch 42/49
+----------
+train Loss: 0.0181 top-k Acc 0.9998 Acc: 0.9954
+val Loss: 0.5872 top-k Acc 0.9556 Acc: 0.8480
+Time elapsed: (95.0, 40.4391770362854)
+Epoch 43/49
+----------
+train Loss: 0.0165 top-k Acc 1.0000 Acc: 0.9952
+val Loss: 0.7125 top-k Acc 0.9326 Acc: 0.8156
+Time elapsed: (97.0, 40.48285436630249)
+Epoch 44/49
+----------
+train Loss: 0.0176 top-k Acc 0.9996 Acc: 0.9959
+val Loss: 0.8752 top-k Acc 0.9090 Acc: 0.7806
+Time elapsed: (99.0, 40.61474633216858)
+Epoch 45/49
+----------
+train Loss: 0.0138 top-k Acc 0.9996 Acc: 0.9980
+val Loss: 0.7792 top-k Acc 0.9168 Acc: 0.8081
+Time elapsed: (101.0, 40.562129735946655)
+Epoch 46/49
+----------
+train Loss: 0.0181 top-k Acc 0.9993 Acc: 0.9952
+val Loss: 0.6749 top-k Acc 0.9331 Acc: 0.8311
+Time elapsed: (103.0, 40.71815538406372)
+Epoch 47/49
+----------
+train Loss: 0.0177 top-k Acc 0.9996 Acc: 0.9950
+val Loss: 0.7027 top-k Acc 0.9368 Acc: 0.8247
+Time elapsed: (105.0, 40.97546982765198)
+Epoch 48/49
+----------
+train Loss: 0.0180 top-k Acc 0.9998 Acc: 0.9961
+val Loss: 0.7521 top-k Acc 0.9385 Acc: 0.8036
+Time elapsed: (107.0, 41.09227180480957)
+Epoch 49/49
+----------
+train Loss: 0.0162 top-k Acc 0.9996 Acc: 0.9970
+val Loss: 0.6656 top-k Acc 0.9462 Acc: 0.8261
+Time elapsed: (109.0, 41.313801527023315)
+Training complete in 109m 41s
