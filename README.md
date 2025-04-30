@@ -16,7 +16,7 @@ This repository contains the code, data, and models of the paper titled "HᴀSP�
 ## Data Directory
 Please navigate to the [Hugging Face repository](https://huggingface.co/datasets/Starscream-11813/HaSPeR) for the latest version of the dataset.
 The image samples are partitioned according to the following directory tree:
-```
+<pre>
 HaSPeR/
 ├── data/
 │   ├── train/
@@ -51,7 +51,7 @@ HaSPeR/
 │       ├── snail/
 │       ├── snake/
 │       └── swan/
-```
+</pre>
 
 ## Citation
 If you find this work useful, please cite our paper:
