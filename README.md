@@ -57,14 +57,6 @@ HaSPeR/
 ## Citation
 If you find this work useful, please cite our paper:
 ```bib
-@article{raiyan2024hasper,
-  title={HaSPeR: An Image Repository for Hand Shadow Puppet Recognition},
-  author={Raiyan, Syed Rifat and Amio, Zibran Zarif and Ahmed, Sabbir},
-  journal={arXiv preprint arXiv:2408.10360},
-  year={2024}
-}
-```
-```bib
 @InProceedings{Raiyan_2025_ICCV,
     author    = {Raiyan, Syed Rifat and Amio, Zibran Zarif and Ahmed, Sabbir},
     title     = {HaSPeR: An Image Repository for Hand Shadow Puppet Recognition},
@@ -72,5 +64,13 @@ If you find this work useful, please cite our paper:
     month     = {October},
     year      = {2025},
     pages     = {4446-4456}
+}
+```
+```bib
+@article{raiyan2024hasper,
+  title={HaSPeR: An Image Repository for Hand Shadow Puppet Recognition},
+  author={Raiyan, Syed Rifat and Amio, Zibran Zarif and Ahmed, Sabbir},
+  journal={arXiv preprint arXiv:2408.10360},
+  year={2024}
 }
 ```
